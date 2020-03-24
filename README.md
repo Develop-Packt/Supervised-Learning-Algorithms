@@ -1,2 +1,5 @@
-# Supervised-Learning-Algorithms
-This module explores three different supervised learning algorithms used for classification. It also takes a step-by-step approach to solve a supervised learning classification problem using these algorithms and perform error analysis by comparing the results of the three different algorithms.
+# Supervised Learning Algorithms
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Supervised-Learning-Algorithms.svg)](https://github.com/Develop-Packt/Supervised-Learning-Algorithms/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Supervised-Learning-Algorithms.svg)](https://github.com/Develop-Packt/Supervised-Learning-Algorithms/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Supervised-Learning-Algorithms.svg)](https://github.com/Develop-Packt/Supervised-Learning-Algorithms/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Supervised-Learning-Algorithms/pulls)
